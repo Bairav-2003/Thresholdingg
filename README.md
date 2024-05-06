@@ -27,8 +27,8 @@ Use Otsu's method to segment the image and display the results.
 
 
 ```python
-#Name: Easwar J
-#Reg No: 212221230024
+#Name: Bairav Skandan Loha
+#Reg No: 212221230010
 # Load the necessary packages
 
 import numpy as np
